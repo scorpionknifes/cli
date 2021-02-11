@@ -73,8 +73,9 @@
   "dependencies": {
     "@netlify/build": "^9.0.0",
     "@netlify/config": "^4.0.0",
-    "@netlify/framework-info": "^2.0.0",
+    "@netlify/framework-info": "^3.0.0",
     "@netlify/plugin-edge-handlers": "^1.10.0",
+    "@netlify/plugins-list": "^2.2.0",
     "@netlify/traffic-mesh-agent": "^0.27.10",
     "@netlify/zip-it-and-ship-it": "^2.0.0",
     "@oclif/command": "^1.6.1",
